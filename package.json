@@ -1,0 +1,29 @@
+{
+  "name"          : "objectvalues",
+  "version"       : "1.0.0",
+  "description"   : "Returns all the values present in an object",
+  "license"       : "MIT",
+  "repository"    : "https://github.com/luthraG/objectvalues.git",
+  "author"        : {
+    "name"        : "Gaurav Luthra",
+    "email"       : "luthra.zenith@gmail.com"
+  },
+  "dependencies"  : {
+    "node-ratify" : ""
+  },
+  "engines"       : {
+    "node"        : ">=0.10.0"
+  },
+  "files"         : [
+    "index.js"
+  ],
+  "keywords"      : [
+    "object",
+    "values",
+    "properties",
+    "keys",
+    "extend",
+    "assign",
+    "value"
+  ]
+}
