@@ -1,6 +1,6 @@
 {
   "name"          : "objectvalues",
-  "version"       : "1.0.2",
+  "version"       : "1.0.3",
   "description"   : "Returns all the values present in an object",
   "license"       : "MIT",
   "repository"    : "https://github.com/luthraG/objectvalues.git",
