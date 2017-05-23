@@ -37,7 +37,9 @@ OBJECT_VALUES.values(days);
 
 ### Clone the repo
 
-git clone https://github.com/luthraG/objectvalues.git
+```bash
+$ git clone https://github.com/luthraG/objectvalues.git
+```
 
 ### API
 
