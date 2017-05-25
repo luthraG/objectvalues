@@ -1,6 +1,6 @@
 {
   "name"          : "objectvalues",
-  "version"       : "1.0.3",
+  "version"       : "1.0.4",
   "description"   : "Returns all the values present in an object",
   "license"       : "MIT",
   "repository"    : "https://github.com/luthraG/objectvalues.git",
@@ -9,7 +9,7 @@
     "email"       : "luthra.zenith@gmail.com"
   },
   "dependencies"  : {
-    "node-ratify" : "1.1.2"
+    "node-ratify" : "~1.1.0"
   },
   "engines"       : {
     "node"        : ">=0.10.0"
